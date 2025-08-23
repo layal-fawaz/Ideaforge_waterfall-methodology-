@@ -33,7 +33,9 @@ This repository presents a conceptual implementation of an **AI-powered idea ref
 ### 3️⃣ Implementation & Unit Testing
 - Created a **prototype** to demonstrate system layout and user interactions.  
 - Simulated AI outputs, task generation, and project visualization.  
-- Tool used: **Visily**  
+- Tool used: **Visily**
+  You can explore the interactive prototype here:  
+👉 [View Prototype on visily](https://app.visily.ai/projects/0cfbeb1e-2cac-42a1-ab39-059ae7681444/boards/2114956) 
 
 ### 4️⃣ Integration & System Testing
 - Prepared **Test Plan** and multiple **Test Cases** covering:  
